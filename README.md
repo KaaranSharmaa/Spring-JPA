@@ -1,0 +1,1 @@
+ORM (Object-Relational Mapping):objects se table create krne ko orm bolte hae like int rollno toh orm use krte hae
